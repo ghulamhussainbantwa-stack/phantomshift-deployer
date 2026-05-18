@@ -1,5 +1,6 @@
 # PhantomShift — Laravel Blue-Green 
-https://packagist.org/users/ghulamhussainbantwa-stack/packages/
+{https://packagist.org/users/ghulamhussainbantwa-stack/packages/}
+{https://laravel-news.com/account/links}
 
 Zero downtime Blue-Green deployment package for Laravel.
 Deploy without your users ever noticing.
